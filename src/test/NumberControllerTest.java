@@ -1,6 +1,6 @@
 package test;
 
-import Controller.NumberController;
+import controller.NumberController;
 import org.junit.Test;
 
 import static org.junit.Assert.*;

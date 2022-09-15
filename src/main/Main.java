@@ -1,6 +1,6 @@
-package Main;
+package main;
 
-import Controller.NumberController;
+import controller.NumberController;
 
 import java.util.Scanner;
 import java.util.logging.Level;
