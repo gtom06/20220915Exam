@@ -18,7 +18,7 @@ class Main {
         } catch (Exception e){
             logger.log(Level.WARNING, "error while parsing value. Please insert a number");
         }
-        if (bool == true) {
+        if (bool) {
             System.out.println("Multiple of 2");
         }
         else {
